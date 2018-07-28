@@ -146,5 +146,5 @@ public class AnagramsActivity extends AppCompatActivity {
             gameStatus.append(" Hit 'Play' to start again");
         }
         return true;
-    }
+ //test   }
 }
